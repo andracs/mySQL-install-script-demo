@@ -1,6 +1,6 @@
-# mySQL-install-script-demo
+# mySQL install-script demo
 
-Se lige dette billede, om hvordan du kan blande synkrone - og asynkrone kald:
+Se dette billede, for at forstå, hvordan du kan blande synkrone og asynkrone kald:
 
 ![Synkrone og asynkrone kald](https://blog.4psa.com/wp-content/uploads/callback-syndrome-cause.jpg)
 
